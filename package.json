@@ -1,0 +1,24 @@
+{
+  "name": "clearfix",
+  "version": "1.0.0",
+  "description": "Clearfix mixin for less. Contain your floats without extra markup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joris-van-der-Wel/less-clearfix.git"
+  },
+  "keywords": [
+    "less",
+    "clearfix",
+    "css",
+    "mixins",
+    "mixin",
+    "npm",
+    "import"
+  ],
+  "author": "Joris van der Wel <joris@jorisvanderwel.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joris-van-der-Wel/less-clearfix/issues"
+  },
+  "homepage": "https://github.com/Joris-van-der-Wel/less-clearfix#readme"
+}
